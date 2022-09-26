@@ -36,7 +36,7 @@
 
   WALKTHROUGH VIDEO -
 
-  [video](https://drive.google.com/file/d/1UrT419g437tVAl26YKpfm2EeIaOdYQyL/view)
+  [Video](https://drive.google.com/file/d/1UrT419g437tVAl26YKpfm2EeIaOdYQyL/view)
 
   ## Contributions
   This project was done by Emili0
